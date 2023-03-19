@@ -14,7 +14,7 @@ from telegram.ext import (
 )
 
 # set your token here:
-BOT_TOKEN = "your-bot-token-here"
+BOT_TOKEN = "5668946955:AAEvNEb5tvSImKyskVq-jc36MlgnYhst8v8"
 
 
 def start(update: Update, context: CallbackContext):
