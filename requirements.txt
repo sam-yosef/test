@@ -1,5 +1,6 @@
 ffmpeg-python
-python-telegram-bot
+python-telegram-bot==13.7
+ffmpeg-python==0.2.0
 aiogram
 heroku3
 motor
