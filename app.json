@@ -1,0 +1,32 @@
+{
+    "name": "VIDEOCOMPRESS",
+    "description": "A stable and Fast telegram video compress",
+    "logo": "",
+    "keywords": [
+        "Best",
+        "telegram",
+        "compressor",
+        "bot"
+    ],
+    "repository": "https://github.com/sam-yosef/test/tree/main",
+    "website": "",
+    "success_url": "https://t.me/VIDEO_CONVERT",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": "5668946955:AAEvNEb5tvSImKyskVq-jc36MlgnYhst8v8"
+        },
+        "AUTH_USERS": {
+            "description": "Bot owner's UserID.",
+            "value": "784291834"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ]
+}
