@@ -1,6 +1,6 @@
 ffmpeg-python
 python-telegram-bot==13.7
-aiohttp==3.8.1
+aiohttp
 aiogram
 heroku3
 motor
