@@ -1,7 +1,8 @@
 ffmpeg-python
 python-telegram-bot==13.7
 ffmpeg-python==0.2.0
-aiogram
+aiohttp==3.8.1
+aiogram==3.0.1
 heroku3
 motor
 cryptg
@@ -17,6 +18,5 @@ telegraph
 telethon
 dnspython
 python-decouple
-aiohttp
 humanize
 hachoir
