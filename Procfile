@@ -1,3 +1,3 @@
-$ python main.py
+python: bot main.py
 
 
