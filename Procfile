@@ -1,3 +1,3 @@
-bot: python main.py
+bot: video_compressor bot.py
 
 
